@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"In recent years, the gaming industry has witnessed remarkable advancements in technology, paving the way for immersive and captivating gaming experiences. ","photo2":"https://iili.io/HgSAHsp.jpg"},
+  {"desc3":"Among these advancements, mixed reality (MR) has emerged as a promising technology that combines the real and virtual worlds to create an unparalleled level of interactivity.","photo3":"https://iili.io/HgSuyzv.jpg"},
+  {"desc4":" One noteworthy project in this field is Project Playtime MOB, a groundbreaking initiative aimed at revolutionizing the gaming industry by harnessing the power of MR.","photo4":"https://iili.io/HgSummJ.webp"},
+  {"desc5":"Before delving into Project Playtime MOB, it is essential to comprehend the concept of mixed reality. ","photo5":"https://iili.io/HgSA9XR.webp"},
+  {"descd":"MR refers to the merging of virtual and physical elements, creating an environment where digital and real-world objects coexist and interact in real-time. This technology is achieved through the use of advanced sensors","photod":"https://iili.io/HgSAdqN.webp"}
    ]
  
 }
